@@ -1,4 +1,3 @@
 # Bank's Products Prediction
 
-### Given a Bank's dataset which is extracted from a from a csv file, that holds customers and products information. 
-   The task is to predict wheteher a certain product will be add or deleted in the next month
+### Given a bank's dataset extracted from a CSV file, which holds customer and product information. The task is to predict whether a certain product will be added or deleted in the next month.
